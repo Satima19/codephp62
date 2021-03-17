@@ -11,6 +11,6 @@ switch ($a) {
         echo "a less 5";
         break;
     default:
-        echo "default";vugvcyt
+        echo "default";
         break;
 }
